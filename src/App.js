@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+// Below are our components
 import Input from "./Components/Input";
 import Display from "./Components/Display";
 
